@@ -1,0 +1,164 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/JavaScript%20working/resume.html
+Subject: Document
+Date: Mon, 14 Apr 2025 10:26:44 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--vSE6iJghe8twOnTF1K2tI07pnQL1TO2MLqacZeWd2g----"
+
+
+------MultipartBoundary--vSE6iJghe8twOnTF1K2tI07pnQL1TO2MLqacZeWd2g----
+Content-Type: text/html
+Content-ID: <frame-3FC67F84EA44177C3A10099802A7EAFC@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/JavaScript%20working/resume.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-b88b5a0a-a330-4ba9-869e-87e117995e1b@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class=3D"container">
+        <div class=3D"row">
+            <div class=3D"col">
+                <h1>GURMEL SINGH</h1>
+                <p>9999117834 | singhgurme1369@gmail.com</p>
+            </div>
+        </div>
+        <div class=3D"row">
+            <h3>SURMMARY</h3>
+            <p>Innovative UX/UI Desihner recognized for high productivity a=
+nd effcient task completion. Skilled in
+                usercented disign
+                interactive prototyping and responsiv web design. Excel in =
+problem-solving,teamwork and adaptability,
+                ensuring seamless
+                user experience projects from concept to launch.
+            </p>
+        </div>
+        <div class=3D"row">
+            <h3>SKILLS</h3>
+
+            <div class=3D"ul-flex">
+                <div class=3D"col-6">
+                    <ul>
+                        <li>Visual design</li>
+                        <li>Problem solving</li>
+                        <li>Team collaboration</li>
+                    </ul>
+                </div>
+                <div class=3D"col-6">
+                    <ul>
+                        <li>figma proficiency</li>
+                        <li>Mobile application development </li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+        <div class=3D"row">
+            <h3>EXPERIENCE</h3>
+            <div class=3D"dis-flex">
+                <div class=3D"col-3">
+                    <p><b>03/20225 -current</b></p>
+                </div>
+                <div class=3D"col-9">
+                    <p><b>UX/UI Designer</b></p>
+                    <p><b>UX UI Design</b></p>
+                    <ul>
+                        <li>
+                            <p>Submitted design ideas to plan projects with=
+ cuctomers and managers.</p>
+                        </li>
+                        <li>
+                            <p>Contributed ideas to brainstorming sessions =
+regarding new products or features.</p>
+                        </li>
+                        <li>
+                            <p>Selected colors and themes while adding func=
+tionality to create new designs.</p>
+                        </li>
+                        <li>
+                            <p>Produced high fidelity mockups for desktop a=
+nd mobile versions of web applications using
+                                tools like Figma and Photoshop.</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+
+        <div class=3D"row">
+            <h3>EDUCATION AND TRAINING</h3>
+            <div class=3D"dis-flex">
+                <div class=3D"col-3">
+                    <p><b>03/2024</b></p>
+                </div>
+                <div class=3D"col-9">
+                    <p><b>High School Diploma</b></p>
+                    <p><b>A.N.JHA INTER COLLEGE -</b>Karanpur,Kashipur,(Udh=
+am Singh Nagar)
+                        Uttrakhad
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class=3D"row">
+            <h3>LANGUAGES</h3>
+            <div class=3D"dis-flex">
+                <div class=3D"col-3">
+                   =20
+                </div>
+                <div class=3D"col-9">
+                    <p><b>Hindi: </b>First Language</p>
+                    <p><b>English:</b></p>
+                    <div class=3D"line" style=3D"border: 3px solid rgb(77, =
+189, 189); width: 280px;"></div>
+                    Beginner (A1)
+                    <p><b>Punjabi:</b></p>
+                    <div class=3D"line" style=3D"border: 3px solid rgb(77, =
+189, 189); width: 280px;"></div>
+                    Proficient (C1)
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- Code injected by live-server -->
+
+
+
+
+</body></html>
+------MultipartBoundary--vSE6iJghe8twOnTF1K2tI07pnQL1TO2MLqacZeWd2g----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-b88b5a0a-a330-4ba9-869e-87e117995e1b@mhtml.blink
+
+@charset "utf-8";
+
+.container { width: 800px; height: 100%; }
+
+.row { padding-left: 40px; width: 100%; }
+
+.ul-flex { display: flex; }
+
+.col-6 { width: 50%; }
+
+.col-9 { width: 75%; }
+
+.col-3 { width: 25%; }
+
+h1 { color: rgb(35, 88, 88); }
+
+h3 { color: rgb(35, 88, 88); }
+
+.dis-flex { display: flex; }
+------MultipartBoundary--vSE6iJghe8twOnTF1K2tI07pnQL1TO2MLqacZeWd2g------
